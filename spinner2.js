@@ -6,7 +6,7 @@ spinner.forEach((position) => {
   setTimeout(() => { 
   process.stdout.write(position);
 }, delay);
-delay += 300;
+delay += 200;
 })
 
 
